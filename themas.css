@@ -1,0 +1,464 @@
+@charset "UTF-8";
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    background-color: #000000;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+nav {
+    background-color: #312929;
+    text-align: center;
+    color: #FFFFFF;
+}
+header {
+    background-color: #FB7027;
+    border-radius: 12px;
+    width: 1026px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    z-index: 0;
+    overflow-x: auto;
+    margin-bottom: 22px;
+}
+#menu {
+}
+figure img {
+    border-radius: 100px;
+    margin-left: 0px;
+    opacity: 1;
+}
+header figure {
+    width: 207px;
+    float: left;
+    z-index: 2;
+    padding-left: 0px;
+}
+header h1 {
+    width: 578px;
+    float: left;
+    text-align: center;
+}
+header p {
+    margin-top: -8px;
+    float: left;
+    width: 707px;
+}
+section {
+    background-color: hsla(30,100%,50%,0.57);
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 1px;
+    padding-bottom: 19px;
+    overflow-x: auto;
+    margin-bottom: 22px;
+}
+footer {
+    background-color: hsla(21,92%,56%,1.00);
+}
+.experiencia  {
+    background-color: hsla(0,0%,100%,1.00);
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 325px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.educacion  {
+    background-color: hsla(0,0%,100%,1.00);
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 345px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.curosoyseminarios  {
+    background-color: hsla(0,0%,100%,1.00);
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 327px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.github  {
+    background-color: #171515;
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 167px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.twitter  {
+    background-color: #00acee;
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 167px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.linkedin  {
+    background-color: #0072b1;
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 167px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.youtube  {
+    background-color: #b2071d;
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 167px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.skype  {
+    background-color: #00aff0;
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 167px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.facebook  {
+    background-color: #39569c;
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 167px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+.google  {
+    background-color: hsla(0,0%,100%,1.00);
+    width: 227px;
+    text-align: center;
+    padding-top: 6px;
+    padding-right: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    border-radius: 12px;
+    float: left;
+    margin-right: 2px;
+    height: 167px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+section article figure {
+    background-color: hsla(30,100%,50%,0.57);
+    border-radius: 69px;
+    width: 100px;
+    vertical-align: top;
+    vertical-align: bottom;
+    margin-left: auto;
+    margin-right: auto;
+}
+article figure img {
+    vertical-align: top;
+    vertical-align: bottom;
+    border-radius: 69px;
+}
+section h2 {
+    text-align: center;
+    color: hsla(0,0%,100%,1.00);
+}
+.fecha {
+    color: hsla(23,100%,50%,1.00);
+    font-weight: bolder;
+}
+
+footer {
+    padding-top: 26px;
+    padding-right: 26px;
+    padding-bottom: 26px;
+    padding-left: 26px;
+    width: 990px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+}
+
+.ididoma {
+    position: relative;
+    display: flex;
+    justify-content: space-around;
+    float: left;
+}
+svg {
+	position: relative;
+	width: 150px;
+	height: 150px;
+	z-index: 1000;
+}
+svg circle {
+    width: 100%;
+    height: 100%;
+    fill: none;
+    strore: #191919;
+    stroke-width: 10;
+    stroke-linecap: round;
+    transform: translate(5px,5px);
+}
+svg circle:nth-child(2) {
+	stroke-dasharray: 440;
+	stroke-dashoffset: 440;
+	
+}
+.card:nth-child(1)  svg circle:nth-child(2){
+	stroke-dashoffset: calc(440 - ( 440 * 100 ) / 100);
+	stroke: #FB7027;
+}
+.card:nth-child(2)  svg circle:nth-child(2){
+	stroke-dashoffset: calc(440 - ( 440 * 50 ) / 100);
+	stroke: #FB7027;
+}
+.card:nth-child(3)  svg circle:nth-child(2){
+	stroke-dashoffset: calc(440 - ( 440 * 100 ) / 100);
+	stroke: #FB7027;
+}
+.card:nth-child(4)  svg circle:nth-child(2){
+	stroke-dashoffset: calc(440 - ( 440 * 30 ) / 100);
+	stroke: #FB7027;
+}
+.ididoma .card {
+    position: relative;
+    width: 239px;
+    background: linear-gradient(0deg,#1b1b1b,#222,#1b1b1b);
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+    border-radius: 12px;
+    margin-left: 6px;
+    margin-right: 2px;
+}
+.percenet {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: inset 0 0 50px #000;
+    z-index: 1000;
+    margin-left: auto;
+    margin-right: auto;
+}
+.percenet .number {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 50%;
+}
+.percenet .number h2 {
+	color: #777777;
+	font-weight: 700;
+	font-size: 40px;
+	transition: 0.5s;
+}
+.percenet .number h2 span {
+	font-size: 24px;
+	color: #777777;
+}
+.texto {
+	position: relative;
+	color: #777777;
+	font-weight: 700;
+	font-size: 18px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: 0.5s;
+}
+.inline {
+    list-style-type: none;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0;
+    overflow: hidden;
+    width: 1278px;
+    margin-top: auto;
+}
+li {
+    float: left;
+    text-transform: uppercase;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+li a:hover {
+  background-color: #111111;
+}
+.informatica {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    padding-left: 9px;
+    margin-bottom: 10px;
+    overflow-y: auto;
+}
+.contactar {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    padding-left: 9px;
+    margin-bottom: 10px;
+    overflow-y: auto;
+    width: 476px;
+    float: left;
+    margin-right: 6px;
+    margin-left: 4px;
+    height: 535px;
+}
+.contactar1 {
+    background-color: #FFFFFF;
+    border-radius: 12px;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    padding-left: 9px;
+    margin-bottom: 10px;
+    overflow-y: auto;
+    width: 476px;
+    float: left;
+    margin-right: 6px;
+    margin-left: 4px;
+    height: 535px;
+}
+.contactar1 p span {
+    font-weight: bold;
+}
+#contactar .contactar1 p {
+    margin-top: 16px;
+    margin-left: 12px;
+    margin-right: 20px;
+    text-align: justify;
+}
+form p #nombre {
+    width: 95%;
+    height: 29px;
+    background-color: #7F7E7E;
+    border-radius: 12px;
+    margin-left: 5px;
+}
+form p #email {
+    width: 95.3%;
+    height: 29px;
+    background-color: #7F7E7E;
+    border-radius: 12px;
+    margin-left: 5px;
+}
+form p #sujeto {
+    width: 95.5%;
+    height: 29px;
+    background-color: #7F7E7E;
+    border-radius: 12px;
+    margin-left: 5px;
+}
+form p #mensaje {
+    width: 94.5%;
+    height: 209px;
+    background-color: #7F7E7E;
+    border-radius: 12px;
+    margin-left: 5px;
+}
+.contactar form .enviar {
+    float: right;
+    margin-right: 17px;
+    height: 47px;
+    width: 106px;
+    background-color: #FF8100;
+    border-radius: 12px;
+    margin-bottom: 12px;
+    color: #000000;
+    font-weight: bolder;
+    font-size: 17px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.informatica p {
+    width: 121px;
+    text-align: center;
+    float: left;
+    margin-right: auto;
+}
+.informatica h2 {
+    color: #000000;
+    clear: right;
+    width: 100%;
+}
